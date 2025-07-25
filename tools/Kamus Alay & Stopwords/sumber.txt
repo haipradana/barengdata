@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/ilhamfp31/indonesian-abusive-and-hate-speech-twitter-text?select=new_kamusalay.csv
